@@ -1,4 +1,4 @@
-# Links-
+# Useful Links
 This is just a personal collection of useful links.
 
 ## GitHub
