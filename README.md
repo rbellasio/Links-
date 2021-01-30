@@ -10,3 +10,6 @@ This is just a personal collection of useful links.
 ## Python
 - Useful short-guide about the analysis of time series in Python: https://www.machinelearningplus.com/time-series/time-series-analysis-python/
 
+## VIM
+- Configuration options: https://www.shortcutfoo.com/blog/top-50-vim-configuration-options/
+
