@@ -13,3 +13,5 @@ This is just a personal collection of useful links.
 ## VIM
 - Configuration options: https://www.shortcutfoo.com/blog/top-50-vim-configuration-options/
 
+## VISURE
+- https://impresa.italia.it/
